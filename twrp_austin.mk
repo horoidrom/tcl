@@ -26,7 +26,7 @@ $(call inherit-product, device/tcl/austin/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := austin
-PRODUCT_NAME := omni_austin
+PRODUCT_NAME := twrp_austin
 PRODUCT_BRAND := TCL
 PRODUCT_MODEL := austin
 PRODUCT_MANUFACTURER := tcl
